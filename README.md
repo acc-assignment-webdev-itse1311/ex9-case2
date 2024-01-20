@@ -1,6 +1,7 @@
 # Tutorial 9 - Case 2
 
 ## Instructions:
+```
 1. Use your editor to open the bc_union_txt.html and bc_today_txt.js files from the html09 > case2 folder. Enter your name and the date in the comment section of each file, and save them as bc_union.html and bc_today.js respectively
 2. Go to the bc_union.html file in your editor. Directly above the closing </head> tag, insert a script element that links the page to the bc_today.js file. Defer the loading of the script until after the rest of the page is loaded by the browser
 3. Study the contents of the file and then save your changes
@@ -17,3 +18,4 @@
 14. Return to the bc_today.js file and change the value of the thisDate variable so that it uses the current date and time
 15. Reload the bc_union.html file in your browser to show the date and the events for the current day of the week
 16. Take a screenshot and push the code online
+```
